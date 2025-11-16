@@ -1,0 +1,28 @@
+{
+  "tiers": [
+    {
+      "id": "omega",
+      "name": "Ω Tier",
+      "description": "Universal / Cosmic scale — foundational informational laws governing existence.",
+      "color": "#00A7FF"
+    },
+    {
+      "id": "xi",
+      "name": "Ξ Tier",
+      "description": "Bridge Physics — connects quantum, gravitational, and informational domains.",
+      "color": "#0095E0"
+    },
+    {
+      "id": "delta",
+      "name": "Δ Tier",
+      "description": "Planetary and dynamic systems — resonance, magnetic, environmental, and temporal structures.",
+      "color": "#0077B3"
+    },
+    {
+      "id": "alpha",
+      "name": "α Tier",
+      "description": "Biological, awareness, emotional, and ethical informational dynamics.",
+      "color": "#005588"
+    }
+  ]
+}
