@@ -1,0 +1,92 @@
+{
+  "frequencies": [
+    {
+      "id": 1,
+      "name": "Aureliath Quantum-Gravity Beat",
+      "tier": "omega",
+      "range": "1.85 × 10^43 Hz",
+      "formula": "ω_P = √(c^5 / ħG)",
+      "description": "Fastest oscillation possible — the heartbeat of Becoming."
+    },
+    {
+      "id": 2,
+      "name": "Nivora Zero-Point Resonance",
+      "tier": "omega",
+      "range": "10^35–10^43 Hz × e^{−D/(λA)}",
+      "formula": "ω_ZP = ω_P e^{-D_KL/(λA)}",
+      "description": "Space’s informational hum when δJ → 0."
+    },
+    {
+      "id": 3,
+      "name": "Kaeloria Dark-Field Oscillation",
+      "tier": "omega",
+      "range": "10⁻³ – 10²⁰ Hz (DM), <10⁻¹⁸ Hz (DE)",
+      "formula": "ω_dark = m_field c^2 / ħ",
+      "description": "Predicted vibrations of dark matter/energy fields."
+    },
+    {
+      "id": 4,
+      "name": "Ouroboris Cosmic Recurrence",
+      "tier": "omega",
+      "range": "<10⁻³⁰ Hz",
+      "formula": "ε = ħΩ₀ e^{-D_KL/(λA)}",
+      "description": "The universe’s ultra-slow renewal cycle."
+    },
+    {
+      "id": 5,
+      "name": "Eosgate Intermediate Gravitational-Wave Band",
+      "tier": "xi",
+      "range": "10⁻³ – 10 Hz",
+      "formula": "ω_GW^(vΩ) = ω_GR + Δω(β, η, A, D_KL)",
+      "description": "Bridge waves between quantum and cosmic gravity."
+    },
+    {
+      "id": 6,
+      "name": "Solara Stellar g-Mode Resonance",
+      "tier": "delta",
+      "range": "10⁻⁶ – 10⁻⁴ Hz",
+      "formula": "ω_g^2 = N^2(k_h^2/k^2) + βΔD_KL",
+      "description": "Deep stellar core oscillations driven by informational curvature."
+    },
+    {
+      "id": 7,
+      "name": "Nivis Deep-Earth Geomagnetic Mode",
+      "tier": "delta",
+      "range": "10⁻⁷ – 10⁻⁴ Hz",
+      "formula": "ω² = ω_MHD² + η⟨(∂A)²⟩",
+      "description": "Earth’s internal magnetic self-balancing frequency."
+    },
+    {
+      "id": 8,
+      "name": "Zephyra Global Heart–Brain–Earth Coherence",
+      "tier": "alpha",
+      "range": "~7–8 Hz + harmonics",
+      "formula": "ω_⊕HB ∼ ω_Schumann × Φ_A(human)",
+      "description": "Shared human-Earth resonance in bio-awareness fields."
+    },
+    {
+      "id": 9,
+      "name": "Aurion Bio-Informational Coherence",
+      "tier": "alpha",
+      "range": "10⁻² – 10² Hz",
+      "formula": "ω_info = √(E_info / A)",
+      "description": "The core informational frequency of all living systems."
+    },
+    {
+      "id": 10,
+      "name": "Kaelix DNA Terahertz Vibration",
+      "tier": "alpha",
+      "range": "10¹¹ – 10¹³ Hz",
+      "formula": "ω_DNA ≈ √(k_eff/m_eff) + η(∂A)²",
+      "description": "Terahertz-level quantum phonon vibrations in DNA."
+    },
+    {
+      "id": 11,
+      "name": "Draconis Ethical-Equilibrium Resonance",
+      "tier": "alpha",
+      "range": "10⁻⁷ – 10⁻⁵ Hz",
+      "formula": "ω_ethic = √(λ κ_soc)",
+      "description": "The oscillation rate of ethical self-correction in societies."
+    }
+  ]
+}
