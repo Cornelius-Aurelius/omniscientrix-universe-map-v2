@@ -1,0 +1,38 @@
+/* Universe Black Background */
+body {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+/* Canvas Layer */
+#universe {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+/* Peace License Footer */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 11px;
+  padding: 6px 0;
+  background: rgba(0, 0, 0, 0.7);
+  border-top: 1px solid #00A7FF44;
+  color: #888;
+}
+
+footer a {
+  color: #00A7FF;
+  text-decoration: none;
+}
