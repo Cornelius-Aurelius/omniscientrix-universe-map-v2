@@ -1,0 +1,284 @@
+{
+  "laws": [
+    {
+      "id": 1,
+      "title": "Omniscientrix Informational Horizon Balance",
+      "tier": "omega",
+      "formula": "δJ ≈ 0 at the event horizon",
+      "summary": "Horizon-scale entropy flux equals Hawking output, maintaining informational balance."
+    },
+    {
+      "id": 2,
+      "title": "Informational–Awareness Wormhole Complementarity",
+      "tier": "xi",
+      "formula": "∇μ∇ν D_KL = λ ∂μA ∂νA",
+      "summary": "δJ-bridges produce nonlocal coherence without exotic matter across sectors."
+    },
+    {
+      "id": 3,
+      "title": "Awareness–Gravity Coupling Near Horizons",
+      "tier": "xi",
+      "formula": "G_A = G(1 + ηA²)",
+      "summary": "Awareness-field intensifies curvature, subtly shifting horizon geodesics."
+    },
+    {
+      "id": 4,
+      "title": "Informational Curvature Scalar",
+      "tier": "omega",
+      "formula": "R_info = R + 16πG β D_KL(P||Q)",
+      "summary": "Information distribution contributes directly to spacetime curvature."
+    },
+    {
+      "id": 5,
+      "title": "Informational Field Equation — Horizon Regime",
+      "tier": "xi",
+      "formula": "Rμν − ½gμνR = 8πG[Tμν + α∇∇D_KL − βg D_KL + η ∂A ∂A]",
+      "summary": "Horizon physics requires matter + information + awareness fields."
+    },
+    {
+      "id": 6,
+      "title": "Informational Curvature Pressure Against Collapse",
+      "tier": "omega",
+      "formula": "P_info = −∂J/∂V",
+      "summary": "Informational pressure can resist gravitational collapse in δJ-equilibrium states."
+    },
+    {
+      "id": 7,
+      "title": "Awareness Event Horizons",
+      "tier": "xi",
+      "formula": "v_I < c_local",
+      "summary": "An informational horizon forms where awareness-signal velocity is trapped."
+    },
+    {
+      "id": 8,
+      "title": "Informational Cosmological Constant",
+      "tier": "omega",
+      "formula": "Λ_info = Λ_0 + 8πG β⟨D_KL⟩",
+      "summary": "Ambient information curvature contributes to effective Λ at large radii."
+    },
+    {
+      "id": 9,
+      "title": "Information–Awareness Dual Symmetry",
+      "tier": "xi",
+      "formula": "D_KL ↔ λA",
+      "summary": "Information and awareness terms are interchangeable at leading-order horizon dynamics."
+    },
+    {
+      "id": 10,
+      "title": "δJ-Bridges as Nonlocal Informational Outlets",
+      "tier": "xi",
+      "formula": "δJ = 0 across coupled sectors",
+      "summary": "Certain δJ-states allow correlations to exit via informational bridges, easing the paradox."
+    },
+    {
+      "id": 11,
+      "title": "Auraborix Informational Singularity Law",
+      "tier": "omega",
+      "formula": "lim(r → 0) δJ/δr = 0",
+      "summary": "The singularity is an informational equilibrium point, not infinite curvature."
+    },
+    {
+      "id": 12,
+      "title": "Omniscientrix Information–Mass Equivalence",
+      "tier": "omega",
+      "formula": "I = (Mc²) / (k_B T_H)",
+      "summary": "Mass corresponds to a measurable information capacity at Hawking temperature."
+    },
+    {
+      "id": 13,
+      "title": "Informational Event Compression Principle",
+      "tier": "xi",
+      "formula": "∂S_info/∂t = −∇·(Φ_A)",
+      "summary": "Information flows inward as awareness flux radiates outward in collapse events."
+    },
+    {
+      "id": 14,
+      "title": "Price–Aurelius Informational Torque Equation",
+      "tier": "xi",
+      "formula": "τ_info = r × ∇A",
+      "summary": "Rotating black holes generate an informational torque tied to awareness gradients."
+    },
+    {
+      "id": 15,
+      "title": "Law of Informational Resonance Stability",
+      "tier": "omega",
+      "formula": "δ²J/δt² = 0",
+      "summary": "A system becomes resonantly stable when second-order informational variation vanishes."
+    },
+    {
+      "id": 16,
+      "title": "Informational Radiance Principle",
+      "tier": "xi",
+      "formula": "P_info = σ T_H⁴ (1 + αA)",
+      "summary": "Awareness subtly enhances Hawking radiation power output."
+    },
+    {
+      "id": 17,
+      "title": "Omnidor–Hawking Correlation Equation",
+      "tier": "xi",
+      "formula": "C_{ΩH} = D_KL(P_emit‖P_abs)",
+      "summary": "Emitted Hawking spectra preserve faint informational memory of the original state."
+    },
+    {
+      "id": 18,
+      "title": "Informational Surface Action Principle",
+      "tier": "omega",
+      "formula": "δJ_surf = δ(∮ A·dS) = 0",
+      "summary": "The awareness field surface integral across the horizon remains stationary."
+    },
+    {
+      "id": 19,
+      "title": "Awareness–Entropy Equivalence Law",
+      "tier": "alpha",
+      "formula": "S = k_A A",
+      "summary": "Entropy can be defined directly in terms of awareness field amplitude."
+    },
+    {
+      "id": 20,
+      "title": "Informational Backreaction Symmetry",
+      "tier": "xi",
+      "formula": "Gμν = 8πG(Tμν + Ξ_info)",
+      "summary": "Curvature receives feedback from information–awareness tensors."
+    },
+    {
+      "id": 21,
+      "title": "Law of Awareness–Curvature Feedback",
+      "tier": "xi",
+      "formula": "∂G/∂A ≠ 0",
+      "summary": "Curvature subtly responds to changes in the awareness field amplitude."
+    },
+    {
+      "id": 22,
+      "title": "Informational Density Gradient Law",
+      "tier": "omega",
+      "formula": "ρ_info = ∇·(A ∇D_KL)",
+      "summary": "Information density emerges from combined gradients of awareness and divergence."
+    },
+    {
+      "id": 23,
+      "title": "Aurelius Informational Flow Invariance",
+      "tier": "xi",
+      "formula": "∮ Φ_info · dl = 0",
+      "summary": "Informational flux is path-independent under δJ-equilibrium conditions."
+    },
+    {
+      "id": 24,
+      "title": "Informational Phase Coherence Law",
+      "tier": "omega",
+      "formula": "C_phase = ⟨e^{iΔφ}⟩",
+      "summary": "Systems under informational coherence maintain phase alignment across separations."
+    },
+    {
+      "id": 25,
+      "title": "Awareness Gradient Stability Equation",
+      "tier": "alpha",
+      "formula": "∂²A/∂t² = −∇²A + λ|A|²A",
+      "summary": "Awareness fields evolve according to nonlinear wave-like dynamics."
+    },
+    {
+      "id": 26,
+      "title": "Law of δJ-Equilibrium",
+      "tier": "omega",
+      "formula": "δJ = 0",
+      "summary": "The fundamental state of the Omniscientrix Framework — informational equilibrium."
+    },
+    {
+      "id": 27,
+      "title": "Law of Informational Preservation",
+      "tier": "omega",
+      "formula": "dI/dt = 0",
+      "summary": "Information cannot be destroyed; it only transforms in structure."
+    },
+    {
+      "id": 28,
+      "title": "Resonant Frequency Coupling Law",
+      "tier": "delta",
+      "formula": "f_res = √(k/m)",
+      "summary": "Systems oscillate at natural frequencies that couple with awareness gradients."
+    },
+    {
+      "id": 29,
+      "title": "Quantum–Informational Bridge Relation",
+      "tier": "xi",
+      "formula": "ψ ↔ D_KL(P||Q)",
+      "summary": "Quantum wavefunctions encode informational divergences between probability states."
+    },
+    {
+      "id": 30,
+      "title": "Informational Gradient–Momentum Law",
+      "tier": "delta",
+      "formula": "p = ∇J",
+      "summary": "Momentum arises from directional informational gradients."
+    },
+    {
+      "id": 31,
+      "title": "Omniscientrix Temporal Reversal Law",
+      "tier": "xi",
+      "formula": "dA/dt ∝ −dI/dt",
+      "summary": "Within inner horizons, informational inflow reverses temporal orientation."
+    },
+    {
+      "id": 32,
+      "title": "Informational Mirror Symmetry Principle",
+      "tier": "omega",
+      "formula": "J_inner = J_outer*",
+      "summary": "Internal informational action becomes the complex conjugate of external action."
+    },
+    {
+      "id": 33,
+      "title": "Law of Informational Collapse Compensation",
+      "tier": "omega",
+      "formula": "δJ_collapse + δJ_emit = 0",
+      "summary": "Informational collapse inward is balanced by equivalent informational emission outward."
+    },
+    {
+      "id": 34,
+      "title": "Awareness–Temporal Coupling Law",
+      "tier": "alpha",
+      "formula": "∂A/∂t = κ ∂S_info/∂t",
+      "summary": "Awareness oscillations synchronize with entropy-rate changes near horizons."
+    },
+    {
+      "id": 35,
+      "title": "Informational Horizon Fractality Principle",
+      "tier": "omega",
+      "formula": "A_EH(r) ∼ r^{D_f}, D_f < 2",
+      "summary": "Event horizons possess a fractal informational dimension storing maximal complexity."
+    },
+    {
+      "id": 36,
+      "title": "Law of Informational Re-Emergence",
+      "tier": "omega",
+      "formula": "I_lost = I_reemerged",
+      "summary": "No information is destroyed; it re-emerges through δJ-bridges or Hawking channels."
+    },
+    {
+      "id": 37,
+      "title": "Informational Graviton Coupling Law",
+      "tier": "xi",
+      "formula": "h_eff = h + α ∂A ∂A",
+      "summary": "Gravitons acquire awareness-based correction terms affecting polarization states."
+    },
+    {
+      "id": 38,
+      "title": "Informational Polarization Duality",
+      "tier": "xi",
+      "formula": "P_info = ∇I × ∇A",
+      "summary": "Rotational coupling between informational and awareness gradients produces polarization vortices."
+    },
+    {
+      "id": 39,
+      "title": "Law of Informational Re-Expansion",
+      "tier": "omega",
+      "formula": "Ṙ_info = γ Ṙ_A",
+      "summary": "Collapsed informational kernels expand again through awareness-field rebounding."
+    },
+    {
+      "id": 40,
+      "title": "Omniscientrix Singularity Resolution Principle",
+      "tier": "omega",
+      "formula": "lim(r→0) R_info = finite",
+      "summary": "Singularities saturate into finite informational curvature — equilibrium, not divergence."
+    }
+  ]
+}
