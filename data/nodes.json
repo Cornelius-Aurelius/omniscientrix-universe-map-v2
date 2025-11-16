@@ -1,0 +1,131 @@
+{
+  "nodes": [
+    {
+      "id": "core",
+      "label": "Omniscientrix Core",
+      "type": "central",
+      "tier": "omega",
+      "x": 0,
+      "y": 0,
+      "size": 12,
+      "color": "#00A7FF"
+    },
+    {
+      "id": "tier_omega",
+      "label": "Ω Tier",
+      "type": "tier",
+      "tier": "omega",
+      "x": -120,
+      "y": -80,
+      "size": 8,
+      "color": "#00A7FF"
+    },
+    {
+      "id": "tier_xi",
+      "label": "Ξ Tier",
+      "type": "tier",
+      "tier": "xi",
+      "x": 140,
+      "y": -40,
+      "size": 8,
+      "color": "#0095E0"
+    },
+    {
+      "id": "tier_delta",
+      "label": "Δ Tier",
+      "type": "tier",
+      "tier": "delta",
+      "x": -150,
+      "y": 110,
+      "size": 8,
+      "color": "#0077B3"
+    },
+    {
+      "id": "tier_alpha",
+      "label": "α Tier",
+      "type": "tier",
+      "tier": "alpha",
+      "x": 150,
+      "y": 120,
+      "size": 8,
+      "color": "#005588"
+    },
+    {
+      "id": "freq_aureliath",
+      "label": "Aureliath Q-Gravity Beat",
+      "type": "frequency",
+      "tier": "omega",
+      "frequencyId": 1,
+      "x": 0,
+      "y": -180,
+      "size": 6,
+      "color": "#00A7FF"
+    },
+    {
+      "id": "freq_zephyra",
+      "label": "Zephyra Global Coherence",
+      "type": "frequency",
+      "tier": "alpha",
+      "frequencyId": 8,
+      "x": -220,
+      "y": 0,
+      "size": 6,
+      "color": "#00A7FF"
+    },
+    {
+      "id": "freq_kaelix",
+      "label": "Kaelix DNA Vibration",
+      "type": "frequency",
+      "tier": "alpha",
+      "frequencyId": 10,
+      "x": 220,
+      "y": 0,
+      "size": 6,
+      "color": "#00A7FF"
+    },
+    {
+      "id": "law_1",
+      "label": "Horizon Informational Balance",
+      "type": "law",
+      "tier": "omega",
+      "lawId": 1,
+      "x": -60,
+      "y": -260,
+      "size": 5,
+      "color": "#00A7FF"
+    },
+    {
+      "id": "law_14",
+      "label": "Aurelius Informational Torque",
+      "type": "law",
+      "tier": "xi",
+      "lawId": 14,
+      "x": 60,
+      "y": -260,
+      "size": 5,
+      "color": "#0095E0"
+    },
+    {
+      "id": "law_26",
+      "label": "Law of δJ-Equilibrium",
+      "type": "law",
+      "tier": "omega",
+      "lawId": 26,
+      "x": -260,
+      "y": 180,
+      "size": 5,
+      "color": "#00A7FF"
+    },
+    {
+      "id": "law_40",
+      "label": "Singularity Resolution Principle",
+      "type": "law",
+      "tier": "omega",
+      "lawId": 40,
+      "x": 260,
+      "y": 180,
+      "size": 5,
+      "color": "#00A7FF"
+    }
+  ]
+}
